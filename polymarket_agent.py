@@ -9,7 +9,7 @@ import re
 
 # --- 配置区 ---
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = "@polyinsidermonitor"
+CHAT_ID = "5463485569"
 MIN_BET_USD = 3000
 
 DATA_API_URL = "https://data-api.polymarket.com"
